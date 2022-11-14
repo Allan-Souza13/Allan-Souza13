@@ -2,7 +2,7 @@
  
  - 🪂 Atualmente eu não trabalho na área da programação.
  
- - 🤗 Estudando C++, C#, JavaScript, html, css e React.
+ - 🤗 Estudando C++, C#, JavaScript, html, css, React e VueJs.
  
  - 🤓 Contate-me no e-mail: hwallansouza@gmail.com
  
