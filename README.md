@@ -1,6 +1,10 @@
-😀 - Olá, meu nome é Allan Martinelli e sou um estudante de tecnologia iniciante. Seja muito bem-vindo ao meu perfil. 
-🤯 - Utimamente estou estudando Bastante da Linguagem C#
-😎 - Abaixo você vera a apresentação do meu perfil.
+😀 - Olá, meu nome é Allan Martinelli e sou um estudante de tecnologia iniciante. Seja muito bem-vindo ao meu perfil.<br>
+<br>
+🤯 - Utimamente estou estudando Bastante da Linguagem C#.<br>
+<br>
+🤣 - Eu estava me especializando em Front-end, porem ganhei uma curiosidade<br>em Back-end depois que eu começei a estudar Logica de programação com C#.<br>
+<br>
+📩 - Caso queira entrar em contato, no final terá meu e-mail.
 
 
 
