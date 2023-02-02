@@ -1,3 +1,8 @@
+😀 - Olá, meu nome é Allan Martinelli e sou um estudante de tecnologia iniciante. Seja muito bem-vindo ao meu perfil. 
+🤯 - Utimamente estou estudando Bastante da Linguagem C#
+😎 - Abaixo você vera a apresentação do meu perfil.
+
+
 
 <div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allan-Souza13&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
