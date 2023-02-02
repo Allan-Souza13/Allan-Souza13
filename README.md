@@ -6,29 +6,34 @@
 <br>
 
 ## Codar é um modo de pensar
-<div style="display: flex; justify-content: space-between;"> <br>
-  <img align="left"height="150" alt="coding-time" src="code.gif">
+<div align ="center">
+<div style="display: inline-block"><br>
+  <img align="left" height="250" alt="coding-time" src="code.gif">
+  <h1 align="center">Melhores Tecnologias 👾<h1>
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" alt="c-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" height="30" width="40" alt="csharp-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
   
 </div>
-
-## Redes sociais
-<div>
-  <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <div>
+   <h1>Redes sociais</h1>
+  <a href = "mailto: ornitopinto@gmail.com">
     <img width="30" src="gmail.svg">
   </a>
-  <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+  <a href = "https://www.linkedin.com/in/allan-souza-7106381a4/">
     <img width="25" src="linkedin.svg">
   </a>
-  <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+  <a href = "https://www.youtube.com/channel/UCxFrF1ii9Pu9IszLFJk0krw">
     <img width="35" src="youtube.svg">
   </a>
-  <a href = "https://www.instagram.com/devparadev/">
+  <a href = "https://www.instagram.com/allan_martinellih/">
     <img width="25" src="instagram.png">
   </a>
 </div>
+</div>
+
+
+
