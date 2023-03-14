@@ -1,6 +1,6 @@
 😀 - Olá, meu nome é Allan Martinelli e sou um estudante de tecnologia iniciante. Seja muito bem-vindo ao meu perfil.<br>
 <br>
-🤯 - Utimamente estou estudando Bastante da Linguagem pytho, para aprimorar na linguagem<br>
+🤯 - Utimamente estou estudando Bastante da Linguagem python, para aprimorar na linguagem<br>
 <br>
 🤣 - Eu estava me especializando em Front-end, porem ganhei uma curiosidade<br>em Back-end depois que eu começei a estudar Logica de programação com C#.<br>
 <br>
