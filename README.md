@@ -25,7 +25,7 @@
   <img align="center" height="30" width="40" alt="c-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height="30" width="40" alt="csharp-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" alt="csharp-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" alt="kotlin-icon" i class="devicon-kotlin-plain-wordmark colored"></i>
+  < i  align="center" height="30" width="40" alt="kotlin-icon"class="devicon-kotlin-plain-wordmark colored"></i>
 
 
 
