@@ -29,12 +29,12 @@
 
   
 </div>
-    <div>
+    <div >
    <h1>Redes sociais</h1>
-  <a href = "mailto: souzadev22@gmail.com
-">
+  <a href = "mailto: souzadev22@gmail.com">
     <img width="30" src="gmail.svg">
   </a>
+      <span></span>
   <a href = "https://www.linkedin.com/in/allan-souza-7106381a4/">
     <img width="25" src="linkedin.svg">
   </a>
