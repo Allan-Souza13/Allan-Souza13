@@ -40,7 +40,7 @@
     <img width="25" src="linkedin.svg">
   </a>
            <span>-</span>
-  <a href = "https://www.youtube.com/channel/UCxFrF1ii9Pu9IszLFJk0krw">
+  <a href = "https://www.youtube.com/channel/UCbG4WegEcYMbINUNKHw30Ew">
     <img width="35" src="youtube.svg">
   </a>
            <span>-</span>
