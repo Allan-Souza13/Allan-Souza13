@@ -4,6 +4,7 @@
 <br>
 🤣 - Eu estava me especializando em Front-end, porem ganhei uma curiosidade<br>em Back-end depois que eu começei a estudar Logica de programação com C#.<br>
 <br>
+🤗 - Sempre estarei disposto a aprender novas linguagens para uma experiencia profissional ampla.<br>
 📩 - Caso queira entrar em contato, no final terá meu e-mail.
 
 
