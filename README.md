@@ -43,8 +43,9 @@
            <span>-</span>
   <a href = "https://www.youtube.com/channel/UCbG4WegEcYMbINUNKHw30Ew">
     <img width="35" src="youtube.svg">
+      <span>-</span>
   </a>
-           <span>-</span>
+         
   <a href = "https://www.instagram.com/allan_martinellih/">
     <img width="25" src="instagram.png">
   </a>
