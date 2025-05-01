@@ -1,3 +1,26 @@
+<div align="center">
+<img src="https://i.gifer.com/Buo.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">Hello, my name is Allan Martinelli and I am a beginner technology student. Welcome to my profile.</div>  
+  
+
+- ✍️- I've been studying a lot of JavaScript lately, to improve my knowledge of the language.  
+  
+
+- 🌱  Sempre estarei disposto a aprender novas linguagens para uma experiencia profissional ampla.  
+  
+
+- 📔- Para ganhar um pouco de conhecimento, estudei SQL utilizando o livro "Introdução à linguagem SQL" editora O'REILLY  
+  
+
+- 🧠 - I enjoy programming, because it always sharpens my creativity when I see a design transform into a FrontEnd screen.
+  
+  
+
+<br/>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -34,29 +57,6 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://i.gifer.com/Buo.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hello, my name is Allan Martinelli and I am a beginner technology student. Welcome to my profile.</div>  
-  
-
-- ✍️- I've been studying a lot of JavaScript lately, to improve my knowledge of the language.  
-  
-
-- 🌱  Sempre estarei disposto a aprender novas linguagens para uma experiencia profissional ampla.  
-  
-
-- 📔- Para ganhar um pouco de conhecimento, estudei SQL utilizando o livro "Introdução à linguagem SQL" editora O'REILLY  
-  
-
-- 🧠 - I enjoy programming, because it always sharpens my creativity when I see a design transform into a FrontEnd screen.
-  
-  
-
-<br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -84,7 +84,7 @@
 <br/>  
 
 
-## Donate
+## Donate and visitors
   
 
 <br/>  
